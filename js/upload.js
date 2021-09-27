@@ -24,6 +24,7 @@ var feedback = function(res) {
         addImg('.status', content);
     }
 };
+
 new Imgur({
     clientid: '9516b72594d77fc', //You can change this ClientID
     callback: feedback
