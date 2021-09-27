@@ -28,6 +28,5 @@ new Imgur({
     clientid: '9516b72594d77fc', //You can change this ClientID
     callback: feedback
 });
-    document.getElementById("demo").innerHTML = 5 + 6;
 
 <p id="demo"></p>
